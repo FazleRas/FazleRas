@@ -12,6 +12,14 @@ I'm a college student who loves **stats, data, and problem solving**, but I also
 
 ---
 
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
 ## 📂 What to Expect Here
 This repo is just my **first step** into GitHub — more projects coming soon!  
 You’ll find:
@@ -24,7 +32,10 @@ You’ll find:
 ## ⚡ Current Goals
 - Strengthen my skills in **Python, JavaScript, and data tools**  
 - Work on projects that combine **analytics + creativity**  
-- Build a solid portfolio here on GitHub  
+- Build a solid portfolio here on GitHub
+
+## 📊 GitHub Stats  
+![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazler&show_icons=true&theme=tokyonight)  
 
 ---
 
