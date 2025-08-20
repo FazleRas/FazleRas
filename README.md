@@ -41,6 +41,9 @@ You’ll find:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazler&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fazler&theme=radical)  
 
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
+![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blue&style=flat)
+
 ---
 
 ⭐️ Thanks for checking out my profile! Stay tuned for more.
