@@ -40,6 +40,7 @@ You’ll find:
 ---
 
 ⭐️ Thanks for checking out my profile! Stay tuned for more.
+
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
 ![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blue&style=flat)
 <!--
