@@ -6,9 +6,8 @@ I'm a college student who loves **stats, data, and problem solving**, but I also
 ---
 
 ## 🔧 About Me
-- 🎓 Currently studying: Computer Science (student life grind 🥲)  
+- 🎓 Currently studying: Computer Science
 - 📊 Passionate about: Data, stats, and analysis, and making stuff
-- 🚗 Fun fact: If it’s got wheels and an engine, I’ll probably like it  
 
 ---
 
@@ -21,8 +20,8 @@ I'm a college student who loves **stats, data, and problem solving**, but I also
 ---
 
 ## 📂 What to Expect Here
-This repo is just my **first step** into GitHub — more projects coming soon!  
-You’ll find:
+This repo is just my **first step** into GitHub with more projects coming soon!  
+You can find find:
 - 🔢 Small coding projects (calculators, useful tools, & scripts)  
 - 📊 Data analysis  
 - 🌐 Maybe even a personal website  
