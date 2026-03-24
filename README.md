@@ -1,4 +1,4 @@
-# Hi, I'm Fazle Rasool 👋
+# Hi, I'm Fazle Rasool
 
 Welcome to my GitHub!  
 I'm a college student who loves **stats, data, and problem solving**, but I also like **cars and building things**.  
