@@ -6,8 +6,8 @@ I'm a college student who loves **stats, data, and problem solving**, but I also
 ---
 
 ## 🔧 About Me
-- 🎓 Currently studying: Computer Science
-- 📊 Passionate about: Data, stats, and analysis, and making stuff
+-  Currently studying: Computer Science
+-  Passionate about: Data, stats, and analysis, and making stuff
 
 ---
 
@@ -19,26 +19,26 @@ I'm a college student who loves **stats, data, and problem solving**, but I also
 
 ---
 
-## 📂 What to Expect Here
+## What to Expect Here
 This repo is just my **first step** into GitHub with more projects coming soon!  
 You can find find:
-- 🔢 Small coding projects (calculators, useful tools, & scripts)  
-- 📊 Data analysis  
-- 🌐 Maybe even a personal website  
+-  Small coding projects (calculators, useful tools, & scripts)  
+-  Data analysis  
+-  Personal website  
 
 ---
 
-## ⚡ Current Goals
+## Current Goals
 - Strengthen my skills in **Python, JavaScript, and data tools**  
 - Work on projects that combine **analytics + creativity**  
 - Build a solid portfolio here on GitHub
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazler&show_icons=true&theme=tokyonight)  
 
 ---
 
-⭐️ Thanks for checking out my profile! Stay tuned for more.
+Thanks for checking out my profile! Stay tuned for more.
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
 ![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blue&style=flat)
