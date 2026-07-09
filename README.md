@@ -48,7 +48,9 @@ Extending AlphaLab with per-user watchlists and auth (Supabase), and building ou
 - Chicago, IL
 - LinkedIn: [in/fazle-rasool-m](https://www.linkedin.com/in/fazle-rasool-m)
 
-![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRas&show_icons=true&theme=tokyonight)
+![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRas&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazleRas&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=FazleRas&theme=tokyonight&hide_border=true)
 
 ---
 
