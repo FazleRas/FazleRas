@@ -39,7 +39,7 @@ I built it around the Gemini free tier as a hard constraint, which forced the pa
 
 ## Also here
 
-[TextDNA](https://github.com/FazleRas/TextDNA) is a small web app that analyzes your typing style. There are also a couple of early front-end builds — a physics equation calculator and a basic calculator app — from when I was first getting comfortable with JavaScript.
+[TextDNA](https://github.com/FazleRas/TextDNA) is a small web app that analyzes your typing style. There are also a couple of random early front-end builds, such as a physics equation calculator and a basic calculator app.
 
 ## Currently
 
@@ -48,13 +48,7 @@ Extending AlphaLab with per-user watchlists and auth (Supabase), and building ou
 - Chicago, IL
 - LinkedIn: [in/fazle-rasool-m](https://www.linkedin.com/in/fazle-rasool-m)
 
-![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRas&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazleRas&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=FazleRas&theme=tokyonight&hide_border=true)
-
 ---
-
-<sub>Built with too much coffee and a soft spot for clean APIs.</sub>
 
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=FazleRas&label=Profile%20views&color=blueviolet&style=flat-square)
